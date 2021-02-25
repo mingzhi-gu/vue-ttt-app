@@ -1,0 +1,1 @@
+.view{position:absolute;left:0;top:0;width:100%;transition:all .3s linear}.slide-left-enter,.slide-right-leave-to{transform:translate(100%)}
